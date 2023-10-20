@@ -1,3 +1,7 @@
+/*
+ * sample code to demo the pitfall of implicit function call
+ * by Raymond for the gdb camp in 2023 October.
+ */
 #include <stdio.h>
 
 int main(int argc, char* argv[])
